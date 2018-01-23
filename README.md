@@ -7,7 +7,7 @@ A command-line toolkit for work on custom [WordPress](http://wordpress.org/) dev
 > This project is still at early stage.
 > I'd love to hear from anyone who wish to contribute. Feel free to submit issues, feature requests and any suggestions you mind. PRs are welcome! :-)
 
-> This project forked form [WordPress CLI](https://github.com/thinkholic/wordpress-cli/)
+> This project moved form [kodeflex/wp-artisan](https://github.com/kodeflex/wp-artisan/)
 
 ## Prerequisites
 
@@ -89,7 +89,7 @@ You need to install and configure above `prerequisites` as listed.
 Then;
 
 ```
-git clone git@github.com:kodeflex/wp-artisan.git
+git clone git@github.com:99xt/wp-artisan.git
 cd wp-artisan
 git checkout dev
 npm install
